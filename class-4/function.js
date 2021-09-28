@@ -35,6 +35,4 @@ function namota(a) {
     console.log(a * 10);
 }
 
-namota(10);
-
-
+// namota(10);
